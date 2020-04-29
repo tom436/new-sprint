@@ -83,8 +83,11 @@ footer {
 .email-list {
     margin-left: 10rem;
     padding: 0 .7rem;
+    margin-bottom: 50px;
 }
-
+.active{
+    color: lawngreen;
+}
 .email-list a {
     color: black;
 }
